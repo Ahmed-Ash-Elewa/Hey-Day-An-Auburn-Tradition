@@ -4,6 +4,7 @@ About Hey Day
 Hey Day is a beloved tradition at Auburn University that began in 1947 to create a welcoming environment for returning World War II soldiers. The tradition involves handing out nametags to students, faculty, and staff, and encouraging them to say “hey” to each other.
 Over the years, Hey Day has grown to include free food, live entertainment, and events hosted by campus groups. The 78th Hey Day will be held on October 15, 2025, and will include live music, food, a pep rally, and other activities.
 #############################################################################
+
 What is this Script
 
 The heyday.sh script creates an interactive terminal experience that connects Auburn students with notable alumni and fun Auburn facts. Specifically, it:
@@ -18,7 +19,8 @@ Display a notable Auburn athlete/coach from their favorite sport.
 Show a random fun Auburn fact from the provided dataset.
 
 ###############################################################################
-⚙️ How to Run
+
+How to Run
 
 Clone or download this repository.
 Make the script executable:
@@ -28,14 +30,16 @@ Run the script:
 Follow the interactive prompts!
 
 ########################################################################################
-📂 Files Included
+
+Files Included
 
 heyday.sh → The main interactive script.
 auburn_notables.txt → List of notable Auburn people (by college/sport).
 auburn_facts.txt → Fun Auburn facts for random display.
 
 ################################################################################################
-💻 Example Output
+
+Example Output
 
 Welcome to Auburn’s Hey Day!  
 What’s your name? Ahmed  
