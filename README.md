@@ -1,4 +1,4 @@
-Hey Day Interactive Script 🎉
+Hey Day Interactive Script 
 About Hey Day
 
 Hey Day is a beloved tradition at Auburn University that began in 1947 to create a welcoming environment for returning World War II soldiers. The tradition involves handing out nametags to students, faculty, and staff, and encouraging them to say “hey” to each other.
@@ -67,11 +67,11 @@ Great choice! Did you know this notable alum from Engineering: Tim Cook (CEO of 
 
 What’s your favorite Auburn sport? Football  
 
-Nice! Famous Auburn Football figure: Bo Jackson 🏈  
+Nice! Famous Auburn Football figure: Bo Jackson 
 
-Here’s a fun Auburn fact: Auburn’s Toomer’s Oaks are among the most famous college traditions. 🌳  
+Here’s a fun Auburn fact: Auburn’s Toomer’s Oaks are among the most famous college traditions.
 ####################################################################################################
-📚 Attribution
+Attribution
 
 Auburn University Alumni Association → Hey Day tradition
 
