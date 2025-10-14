@@ -81,3 +81,5 @@ Auburn University Alumni Association → Hey Day tradition
 Datasets (auburn_notables.txt and auburn_facts.txt) provided by comoutional biology course (BIOL-5800).
 
 Script built using bash with grep, awk, sed, and other standard UNIX tools.
+
+Created by Ahmed Shaaban, BIOL-5800 course; data provided by course; regex structure inspired by standard grep/sed/awk usage.
