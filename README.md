@@ -9,8 +9,7 @@ Over the years, Hey Day has grown to include free food, live entertainment, and 
 
 What is this Script
 
-The heyday.sh script creates an interactive terminal experience that connects Auburn students with notable alumni and fun Auburn facts. Specifically, it:
-Prompts the user for their name and greets them with Auburn spirit.
+The heyday.sh script creates an interactive terminal experience that connects Auburn students with notable alumni and fun Auburn facts. Specifically, it Prompts the user for their name and greets them with Auburn spirit.
 
 Asks about their Auburn experience:
 
