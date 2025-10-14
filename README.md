@@ -55,21 +55,24 @@ auburn_facts.txt → Fun Auburn facts for random display.
 
 Example Output
 
-Welcome to Auburn’s Hey Day!  
+What's your name? Ahmed
+Hey Ahmed! War Eagle and happy Hey Day!
 
-What’s your name? Ahmed  
+Which college are you in?
+(Engineering, Business, Liberal Arts, Sciences, Agriculture, Education, or Veterinary Medicine)
+College: Liberal Arts
 
-Hey Friend! War Eagle! 
+What's your favorite Auburn sport?
+(Football, Basketball, Baseball, Gymnastics, or other)
+Sport: Football
 
-What college are you in? Engineering  
+From Liberal Arts, meet: Kathryn Tucker Windham|Liberal Arts|Alumni|Acclaimed storyteller and author
+From Football, here's a notable Tiger: Bo Jackson|Liberal Arts|Athlete-Football-Baseball|1985 Heisman Trophy winner, MLB All-Star
 
-Great choice! Did you know this notable alum from Engineering: Tim Cook (CEO of Apple)?  
+Fun Auburn fact for you:
+  • Auburn's basketball team reached the Final Four in 2019 and again in 2025, marking a golden era for the program.
 
-What’s your favorite Auburn sport? Football  
-
-Nice! Famous Auburn Football figure: Bo Jackson 
-
-Here’s a fun Auburn fact: Auburn’s Toomer’s Oaks are among the most famous college traditions.
+Thanks for celebrating Hey Day, Ahmed! 🧡💙
 ####################################################################################################
 Attribution
 
